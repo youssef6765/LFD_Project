@@ -78,6 +78,3 @@ The script produces:
 - The `remove_duplicates` function ensures smooth ROC curves by averaging TPR for duplicate FPR values.
 - All visualizations use Matplotlib and are displayed during execution; save them manually if needed.
 
-## License
-
-This project is licensed under the MIT License.
