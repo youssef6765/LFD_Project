@@ -51,13 +51,6 @@ Confusion matrices for both models.
 
 
 
-Results
-
-Performance metrics (Accuracy, Precision, Recall, F1-Score) are printed for each fold for both models.
-Aggregated confusion matrices are visualized to show classification performance.
-ROC curves are plotted with AUC scores to evaluate model discrimination ability.
-Average test errors are computed to compare the overall performance of NN and SVM, with the better model highlighted based on lower average test error.
-
 Requirements
 To run the code, install the required Python packages:
 pip install pandas numpy scikit-learn tensorflow matplotlib scipy
